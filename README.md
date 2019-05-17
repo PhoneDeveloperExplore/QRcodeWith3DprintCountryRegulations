@@ -26,3 +26,39 @@
 
 克隆人,基因工程,                                                    </br>
 转基因,                                                            </br>
+
+
+----------
+
+    消防打印时间输出：                              
+    |年月日时分秒毫秒(中文格式):事件:　                
+    |时间:2019.05.17 00:00:01 事件:
+    |时间:2019.05.17 00:00:02 事件:
+    |time:00:00:03 {年月日(省略，隐藏)}
+    |time:00:00:04 
+    |time:15:32:05 
+    |time:15:32:06 事件:
+    |time:00:00:07 事件:
+    |time:00:00:08 事件:
+    |
+    
+    Fire Print Time Output:
+    |年月日时分秒毫秒(英文及其他语言格式):事件:
+    |time:year month day (other day month year..) hour minute second : event :
+    |time:2019.05.17 00:00:01 event:
+    |time:2019.05.17 00:00:02 event:
+    |time:00:00:03 {other year month day(ellipsis,hide)}
+    |time:00:00:04
+    |time:15:32:05
+    |time:15:32:06 event:
+    |time:00:00:07 event:
+    |time:00:00:08 event:
+    |
+    
+----------    
+
+
+
+
+
+
