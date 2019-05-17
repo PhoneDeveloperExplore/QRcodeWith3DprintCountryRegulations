@@ -55,6 +55,8 @@
     |time:00:00:08 event:
     |
     
+    extinguishing and protection; fire control; fire fighting; fire protection
+    
 ----------    
 
 
