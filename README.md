@@ -43,7 +43,7 @@
     |
     
     Fire(Fire control in chinese :火控) Print Time Output:
-    |年月日时分秒毫秒(英文及其他语言格式):事件:
+    |年月日时分秒毫秒(英文及其他语言格式english and other language):事件:
     |time:year month day (other day month year..) hour minute second : event :
     |time:2019.05.17 00:00:01 event:
     |time:2019.05.17 00:00:02 event:
