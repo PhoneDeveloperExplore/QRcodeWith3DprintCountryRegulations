@@ -19,12 +19,12 @@
 |----------                                                       </br>
 |正式运行时间:                                                      </br>
 
-![image](https://github.com/qizhoward/GameCarSystemDemo/blob/master/make.PNG)
+![image](https://github.com/qizhoward/GameCarSystemDemo/raw/master/make.PNG)
 
 
 3维的“二维码”                                                        </br>
 
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode1.PNG)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/raw/master/QRcode1.PNG)
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode2.PNG)
 ![image](https://github.com/qizhoward/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode3.PNG)
 
