@@ -41,12 +41,6 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ5.png)
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ6.png)
 
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际2.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际1.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际3.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际4.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际5.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际6.png)
 
 
 “王文魁”说要“冗余”没表示什么意思                                     </br>
