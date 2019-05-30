@@ -29,6 +29,12 @@
 ![image](https://github.com/qizhoward/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode3.PNG)
 
 
+3维的“二维码” 实际图：　　　　　　　　　　　　　　　　　　　　　　　　　 </br>　　　
+
+
+
+
+
 
 “王文魁”说要“冗余”没表示什么意思                                     </br>
 
