@@ -20,8 +20,9 @@
 |正式运行时间:                                                      </br>
 
 
-3维的“二维码”                                        </br>
+3维的“二维码”                                                        </br>
 
+![image](https://github.com/qizhoward/QRcodeWith3DprintCountryRegulations/blob/master/二维码1.PNG)
 
 
 
