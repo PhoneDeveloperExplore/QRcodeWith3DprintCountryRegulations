@@ -17,13 +17,13 @@
 |                                                                 </br>
 |                                                                 </br>
 |----------                                                       </br>
-|正式运行时间:                                                      </br>
+|正式运行时间:                                                     </br>
 
 
 
 自行脑补XYZ轴                                                     　</br>
 
-3维的“二维码”                                                        </br>
+3维的“二维码”                                                       </br>
 
 
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode1.png)
