@@ -22,7 +22,7 @@
 
 3维的“二维码”                                                        </br>
 
-![image](https://github.com/qizhoward/QRcodeWith3DprintCountryRegulations/blob/master/二维码1.PNG)
+![image](https://github.com/qizhoward/QRcodeWith3DprintCountryRegulations/blob/master/QRcode1.PNG)
 
 
 
