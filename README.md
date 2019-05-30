@@ -19,6 +19,8 @@
 |----------                                                       </br>
 |正式运行时间:                                                      </br>
 
+![image](https://github.com/qizhoward/GameCarSystemDemo/blob/master/make.PNG)
+
 
 3维的“二维码”                                                        </br>
 
