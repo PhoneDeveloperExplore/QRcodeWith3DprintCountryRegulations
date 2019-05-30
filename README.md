@@ -26,7 +26,7 @@
 
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode2.PNG)
 
-![!image](https://github.com/qizhoward/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode3.PNG)
+![image](https://github.com/qizhoward/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode3.PNG)
 
 
 
