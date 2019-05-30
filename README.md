@@ -23,9 +23,7 @@
 3维的“二维码”                                                        </br>
 
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode1.PNG)
-
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode2.PNG)
-
 ![image](https://github.com/qizhoward/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcode3.PNG)
 
 
@@ -38,6 +36,11 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ4.PNG)
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ5.PNG)
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ6.PNG)
+
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际1.PNG)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/二维码实际2.PNG)
+
+
 
 
 “王文魁”说要“冗余”没表示什么意思                                     </br>
