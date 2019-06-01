@@ -42,11 +42,33 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ6.png)
 
 
-
 “王文魁”说要“冗余”没表示什么意思                                     </br>
 
 克隆人,基因工程,                                                    </br>
 转基因,                                                            </br>
+
+反人类图：黑白：
+
+3维的“二维码”                                                       </br>
+
+
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcode1.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcode2.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcode3.png)
+
+
+3维的“二维码” 实际图：　　　　　　　　　　　　　　　　　　　　　　　　　 </br>　　　
+
+
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ1.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ2.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ3.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ4.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ5.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ6.png)
+
+
+
 
 
 ----------
