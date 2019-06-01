@@ -68,9 +68,6 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ6.png)
 
 
-
-
-
 ----------
 
     消防打印时间输出：                              
@@ -101,9 +98,6 @@
     extinguishing and protection; fire control; fire fighting; fire protection
 
 ----------    
-
-
-
 
 
 
