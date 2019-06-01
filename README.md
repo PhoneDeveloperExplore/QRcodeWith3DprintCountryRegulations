@@ -52,20 +52,20 @@
 3维的“二维码”                                                       </br>
 
 
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcode1.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcode2.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcode3.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcode1.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcode2.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcode3.png)
 
 
 3维的“二维码” 实际图：　　　　　　　　　　　　　　　　　　　　　　　　　 </br>　　　
 
 
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ1.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ2.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ3.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ4.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ5.png)
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blackcolor/blob/master/QRcodeSJ6.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ1.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ2.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ3.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ4.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ5.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/QRcodeSJ6.png)
 
 
 
