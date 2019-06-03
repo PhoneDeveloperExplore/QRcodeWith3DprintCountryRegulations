@@ -47,7 +47,7 @@
 玉玺
 
 鬼玺玉玺很像吗?
-![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QR.jpeg)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/blackcolor/DF5C2AB1-722F-4259-B519-10DC06AAA120.jpeg)
 
 
 “王文魁”说要“冗余”没表示什么意思                                     </br>
@@ -106,5 +106,4 @@
     extinguishing and protection; fire control; fire fighting; fire protection
 
 ----------    
-
 
