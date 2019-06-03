@@ -42,6 +42,14 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QRcodeSJ6.png)
 
 
+鬼玺
+
+玉玺
+
+鬼玺玉玺很像吗?
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/QR.jpeg)
+
+
 “王文魁”说要“冗余”没表示什么意思                                     </br>
 
 克隆人,基因工程,                                                    </br>
@@ -98,6 +106,5 @@
     extinguishing and protection; fire control; fire fighting; fire protection
 
 ----------    
-
 
 
