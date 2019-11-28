@@ -1,6 +1,10 @@
 # QRcodeWith3DprintCountryRegulations
 二维码,3D打印,国家规定规范,没有,
 
+  Because Chinese prince, Queen Mother, Xi Jinping, Peng Liyuan,                            </br>
+  I choose to keep the algorithm secret, and the algorithm is kept secret forever.          </br>
+  因为中国皇子,皇妈,习近平,彭丽媛,我选择将算法保密,程序算法永久保密.                              </br>
+
 |-----------------------------------------------------------     </br>
 |暂行时间:                                                        </br>
 |                                                               
@@ -111,6 +115,9 @@
 二维码,3D打印,国家规定规范,没有,但是已经被应用于医药医学,国家对于医学医药的保密性几乎没有
 
 
+  Because Chinese prince, Queen Mother, Xi Jinping, Peng Liyuan,                            </br>
+  I choose to keep the algorithm secret, and the algorithm is kept secret forever.          </br>
+  因为中国皇子,皇妈,习近平,彭丽媛,我选择将算法保密,程序算法永久保密.                              </br>
 
 
 
