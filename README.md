@@ -125,5 +125,5 @@
   I choose to keep the algorithm secret, and the algorithm is kept secret forever.          </br>
   因为中国皇子,皇妈,习近平,彭丽媛,我选择将算法保密,程序算法永久保密.                              </br>
 
-
+圆形的二维码,国家规定规范,依然没有,互联网已经流传使用
 
