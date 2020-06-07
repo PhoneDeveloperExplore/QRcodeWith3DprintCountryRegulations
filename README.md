@@ -134,11 +134,3 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔a.png)
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔b.png)
 
-
-
-
-
-
-
-
-
