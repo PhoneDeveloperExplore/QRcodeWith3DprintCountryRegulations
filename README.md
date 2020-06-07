@@ -127,3 +127,18 @@
 
 圆形的二维码,国家规定规范,依然没有,互联网已经流传使用
 
+
+对比图
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔a1.PNG)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔a2.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔a.png)
+![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔b.png)
+
+
+
+
+
+
+
+
+
