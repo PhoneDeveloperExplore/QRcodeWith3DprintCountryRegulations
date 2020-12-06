@@ -134,3 +134,5 @@
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔a.png)
 ![image](https://github.com/PhoneDeveloperExplore/QRcodeWith3DprintCountryRegulations/blob/master/瞳孔b.png)
 
+二维码衍生码的相关讨论,相关知识,法律法规未完善
+
